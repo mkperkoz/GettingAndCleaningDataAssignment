@@ -9,10 +9,10 @@ There are 3 files submitted for the assignment
 - Codebook.md
 
 Steps for running the analysis
-1) Load the data set
+- Load the data set
 https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
-2) Unzip the downloaded data under your working directory
-3) Run the R code (run_analysis.R)
+- Unzip the downloaded data under your working directory
+- Run the R code (run_analysis.R)
 
 You will find the output file "GettingAndCleaningData_Assignment.txt" under your working directory.
 
